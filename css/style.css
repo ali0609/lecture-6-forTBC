@@ -1,0 +1,233 @@
+.li {
+	margin-left: 117px;
+}
+
+img {
+	width: 362px;
+	height: 186px;
+	flex-shrink: 0;
+	margin-left: 40px;
+	margin-bottom: 0px;
+}
+
+.plaji {
+	margin-left: 137px;
+}
+
+li {
+	display: inline-block;
+	vertical-align: middle;
+	margin-right: 35px;
+	margin-top: 21px;
+	color: #000;
+	font-family: Roboto;
+	font-size: 11px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+}
+.women {
+	width: 32px;
+	height: 32px;
+}
+
+h1 {
+	margin-left: 137px;
+	font-size: 24px;
+}
+
+p {
+	color: #8A8787;
+	font-family: Roboto;
+	font-size: 11px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+	padding-top: 60px;
+	padding-right: 67px;
+	padding-bottom: 67px;
+	padding-left: 37px;
+}
+
+
+.time {
+	color: #8A8787;
+	font-family: Roboto;
+	font-size: 10px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+	margin-top: -110px;
+	margin-left: 30px;
+}
+
+.container {
+	background: #F1F1F1;
+	width: 1510px;
+	height: 1753px;
+	flex-shrink: 0;
+}
+.card1 {
+	width: 332px;
+	height: 171px;
+	background-color: #E7E7E7;
+	display: inline-block;
+	padding: 15px;
+	border-radius: 0px 0px 5px 5px;
+	background: #FFF;
+	margin-left: 137px;
+}
+.card2 {
+	width: 332px;
+	height: 171px;
+	background-color: #E7E7E7;
+	display: inline-block;
+	padding: 15px;
+	border-radius: 0px 0px 5px 5px;
+	background: #FFF;
+	margin-left: 41px;
+}
+.card3 {
+	width: 332px;
+	height: 171px;
+	background-color: #E7E7E7;
+	display: inline-block;
+	padding: 15px;
+	border-radius: 0px 0px 5px 5px;
+	background: #FFF;
+	margin-left: 40px;
+}
+
+.clock {
+	margin-top: -20px;
+	margin-bottom: 32px;
+	width: 16px;
+	height: 16px;
+	border-radius: 16px;
+	background: url(<path-to-image>) lightgray 50% / cover no-repeat;
+}
+.HN {
+	margin-top: 57px;
+}
+
+.bridge {
+	margin-left: 137px;
+	width: 758px;
+	height: 430px;
+	margin-top: 30px;
+}
+.mounts {
+	margin-top: 41px;
+	margin-left: 137px;
+	width: 758px;
+	height: 430px;
+}
+
+
+.s-3{
+	vertical-align: ;
+	margin-top: 120px;
+	margin-right: 137px;
+	margin-bottom: 98px;
+	margin-left: 45px;
+}
+.s-2 {
+	vertical-align: top;
+
+}
+
+.container1 {
+	float: right;
+    padding: 10px;
+	width: 362px;
+	margin-top: -1040px;
+	margin-left: -45px;
+	margin-bottom: 500px;
+	margin-right: 85px;
+}
+.forest {
+	width: 362px;
+	height: 212px;
+	margin-bottom: 98px;
+}
+.spilo {
+	width: 362px;
+	height: 212px;
+	margin-bottom: 98px;
+}
+.city {
+	width: 362px;
+	height: 212px;
+}
+
+.footer {
+	width: 1510px;
+	height: 201px;
+	background: #243043;
+}
+.ftr-1 {
+	color: #818687;
+	font-family: Roboto;
+	font-size: 12px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+	margin-top: 49px;
+	margin-left: 137px;
+	display: inline-block;
+}
+.ftr-2 {
+	margin-top: 49px;
+	margin-left: 75px;
+	display: inline-block;
+	color: #818687;
+	font-family: Roboto;
+	font-size: 12px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+}
+.ftr-3 {
+	margin-left: 74px;
+	margin-right: 75px;
+	display: inline-block;
+	color: #818687;
+	font-family: Roboto;
+	font-size: 12px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+
+}
+.ftr-4 {
+	display: inline-block;
+	vertical-align: top;
+	font-family: Roboto;
+	font-size: 12px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	margin-left: 112px;
+}
+h5 {
+	color: #FFF;
+	font-family: Roboto;
+	font-size: 12px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	margin-top: 59px;
+}
+h4 {
+	margin-bottom: 14px;
+}
+.geolab {
+	margin-top: 59px;
+	margin-right: 178px;
+	position: absolute;
+	right: 0px;
+	width: 38px;
+	height: 40px;
+	border: 3px solid #73AD21;
+	padding: 10px;
+}
