@@ -64,7 +64,7 @@ p {
 .container {
 	background: #F1F1F1;
 	width: 1510px;
-	height: 1753px;
+	height: 1703px;
 	flex-shrink: 0;
 }
 .card1 {
@@ -229,4 +229,4 @@ h4 {
 	width: 38px;
 	height: 40px;
 	padding: 10px;
-}
+}""
